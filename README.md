@@ -13,6 +13,11 @@ This project utilizes the `LangChain` and `LangGraph` framework to create a `Mul
 - **Resume/Portfolio Extraction**: Extract information related to a specific individual named 'Ankit' from a document or portfolio.
 - **Conversational Interface**: Utilize natural language processing capabilities to interact with the system and perform tasks seamlessly.
 
+## Multi-Agent Workflow
+![workflow](multi-agent-workflow.png)
+
+**Note**: Each tool is build such that the database is already in place to execute the query so received.
+
 ## Dependencies
 
 - **Python**: Make sure you have Python installed on your system.
